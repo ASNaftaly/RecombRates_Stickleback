@@ -1,5 +1,4 @@
 # RecombRates_Stickleback
-Recombination Rates between Threespine Stickleback Populations
 
 # Citation
 
